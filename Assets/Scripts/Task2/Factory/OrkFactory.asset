@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3075b516e744320b56e7c6fd4324324, type: 3}
+  m_Name: OrkFactory
+  m_EditorClassIdentifier: 
+  _enemies:
+  - {fileID: 7103233283425859628, guid: 97050c99f87074005909b4bf0adc895f, type: 3}
+  - {fileID: 8767259426212746845, guid: a904f8bff75b94550bcada2acc025fb3, type: 3}
